@@ -17,7 +17,7 @@
 
 ---
 
-## 🏗️ Profil Perusahaan
+## Profil Perusahaan
 
 **PT. ISKOM SARANA NUSANTARA** adalah perusahaan penyedia solusi Teknologi Informasi (TI) strategis yang berfokus pada penyediaan infrastruktur perangkat keras dan integrasi sistem tingkat lanjut. Melalui entitas digital kami, **[istanakomputer.com](https://istanakomputer.com)**, kami menghadirkan layanan penyewaan perangkat keras berkualitas tinggi serta dukungan teknis profesional untuk segmen korporasi, instansi pemerintah, dan sektor pendidikan.
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 📱 Ekosistem Digital My-ISN
+## Ekosistem Digital My-ISN
 
 Untuk mendukung efisiensi operasional dan memberikan layanan terbaik bagi mitra kami, kami mengembangkan ekosistem digital internal yang terintegrasi secara *real-time*:
 
@@ -43,7 +43,7 @@ Aplikasi seluler multifungsi yang dirancang untuk mempercepat koordinasi tim ope
 
 ---
 
-## 🛠️ Standar Teknologi
+## Standar Teknologi
 
 Kami mengadopsi tumpukan teknologi modern untuk menjamin performa, keamanan, dan skalabilitas seluruh platform digital kami:
 
@@ -72,13 +72,13 @@ Kami mengadopsi tumpukan teknologi modern untuk menjamin performa, keamanan, dan
 
 ---
 
-## 📞 Hubungi Korespondensi Kami
+## Hubungi Korespondensi Kami
 
 Kami terbuka untuk kolaborasi strategis dan konsultasi solusi teknologi bagi bisnis Anda.
 
-- 🌐 **Portal Resmi**: [www.istanakomputer.com](https://istanakomputer.com)
-- 📧 **Surat Elektronik**: iskomsarananusantara@gmail.com
-- 📍 **Kantor Pusat**: Area JABODETABEK, Indonesia
+- **Portal Resmi**: [www.istanakomputer.com](https://istanakomputer.com)
+- **Surat Elektronik**: iskomsarananusantara@gmail.com
+- **Kantor Pusat**: Area JABODETABEK, Indonesia
 
 <p align="center">
   <br />
